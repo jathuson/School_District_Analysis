@@ -30,6 +30,7 @@ There were no changes in the results of the analysis on scores based on school s
 
 ## Summary
 The overall impact of the removal of the Thomas High School 9th Grade test scores was minimal across all aspects of the analysis:
+
     -In the district summary, there was a negligible (0.3% or less) impact to both the average scores and the percentage passing.
     -In the Thomas HS summary, there was a negligible (0.3% or less) impact to both the average scores and the percentage passing. 
     -Thomas HS remained second overall for passing percentage, however it was now tied at that level with two other schools.
